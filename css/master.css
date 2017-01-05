@@ -1,0 +1,67 @@
+.unit {
+  height: 24px;
+  width: 24px;
+  display: inline-block;
+  float: left;
+  background-color: black;
+  opacity: 0;
+}
+
+#wrapper {
+  margin: auto;
+  height: 500px;
+  width: 500px;
+  margin-top: 48px;
+}
+
+#etch {
+  padding-top: px;
+}
+
+.red-thing {
+  margin: auto;
+  background-color: #F95759;
+  padding-top: 0px;
+  height: 745px;
+  width: 700px;
+  border-radius: 10px;
+}
+
+#shake {
+  margin-top: 15px;
+}
+
+h2 {
+color: #3c3744;
+font-family: 'Clicker Script', cursive;
+font-weight: bolder;
+padding-top: 40px;
+}
+
+
+#left-knob {
+  position: absolute;
+  float: left;
+  height: 100px;
+  width: 100px;
+  bottom: 25px;
+  padding-left: 20px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+#right-knob {
+  position: relative;
+  float: right;
+  bottom: 20px;
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+#back-board {
+  background-color: white;
+  height: 480px;
+  width: 480px;
+}
